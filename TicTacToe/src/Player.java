@@ -1,8 +1,8 @@
 
 public enum Player {
     PLAYER_X('X'),
-    PLAYER_O('O');
-    //PLAYER_Z('Z');
+    PLAYER_O('O'),
+    PLAYER_Z('Z');
 
 
     
